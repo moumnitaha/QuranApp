@@ -1,0 +1,7 @@
+{
+  "name": "QuranApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
